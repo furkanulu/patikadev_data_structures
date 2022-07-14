@@ -22,8 +22,6 @@ Yukarıdaki dizinin sort türüne göre aşamalarını yazınız.
 
 Big-O gösterimini yazınız.
 
-[7,3,5,8,2,9,4,15,6] dizisinin Insertion Sort'a göre ilk 4 adımını yazınız.
-
 ## Proje 3 --> binary_search_tree.txt
 
 [7, 5, 1, 8, 3, 6, 0, 9, 4, 2] dizisinin Binary-Search-Tree aşamalarını yazınız.
