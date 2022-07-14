@@ -2,7 +2,7 @@
 
 Listenin eleman sayısı 10, dolayısıyla 10 aşamada ağaç oluşturulacak.
 
-Aşama 1) Listenin ilk elemanı 7
+Aşama 1) Listenin ilk elemanı (root) 7
 
 Root --> 7
 
